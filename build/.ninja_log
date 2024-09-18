@@ -1,0 +1,10 @@
+# ninja log v5
+81	14241	1726507665752198544	CMakeFiles/PlatformerGame.dir/src/classes/Polygon.cpp.o	5b72c505c8256110
+36	7877	1726508435581179216	CMakeFiles/PlatformerGame.dir/src/main.cpp.o	f7c9a50fd5379a9c
+32	11859	1726690321030419069	CMakeFiles/CppSimulation.dir/src/main.cpp.o	89fe75056b47a326
+22	12321	1726690230160415251	CMakeFiles/CppSimulation.dir/src/classes/Polygon.cpp.o	92000aa72f8c461f
+12333	14067	1726690231892415321	CppSimulation	d97437be48b9ade4
+34	11917	1726690557212428586	CMakeFiles/CppSimulation.dir/src/main.cpp.o	89fe75056b47a326
+11917	14058	1726690559334428671	CppSimulation	d97437be48b9ade4
+48	9862	1726690652186432258	CMakeFiles/CppSimulation.dir/src/main.cpp.o	89fe75056b47a326
+9864	11502	1726690653816432328	CppSimulation	d97437be48b9ade4

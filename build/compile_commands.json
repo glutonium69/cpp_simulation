@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/glutonum__/workspace/CppSimulation/build",
+  "command": "/usr/bin/g++ -I/home/glutonum__/workspace/CppSimulation/include -g -std=gnu++17 -o CMakeFiles/CppSimulation.dir/src/classes/Polygon.cpp.o -c /home/glutonum__/workspace/CppSimulation/src/classes/Polygon.cpp",
+  "file": "/home/glutonum__/workspace/CppSimulation/src/classes/Polygon.cpp",
+  "output": "CMakeFiles/CppSimulation.dir/src/classes/Polygon.cpp.o"
+},
+{
+  "directory": "/home/glutonum__/workspace/CppSimulation/build",
+  "command": "/usr/bin/g++ -I/home/glutonum__/workspace/CppSimulation/include -g -std=gnu++17 -o CMakeFiles/CppSimulation.dir/src/main.cpp.o -c /home/glutonum__/workspace/CppSimulation/src/main.cpp",
+  "file": "/home/glutonum__/workspace/CppSimulation/src/main.cpp",
+  "output": "CMakeFiles/CppSimulation.dir/src/main.cpp.o"
+}
+]
